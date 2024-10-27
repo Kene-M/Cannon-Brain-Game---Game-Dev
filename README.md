@@ -1,6 +1,6 @@
 # Cannon-Brain-Game---Game-Dev
 
--- Basic Game Mechanics
+### Basic Game Mechanics
 1. Cannon rotation direction is controlled by the mouse movement
 2. A key click (S,D, and F) fires a bullet with a value (1,2 and 3) in the direction the cannon points at
 3. Spawn crates with random values at random positions from the top of the screen at certain time intervals.
@@ -9,7 +9,7 @@
 6. If the crate's number becomes less than zero, points will be deducted and the crate is destroyed.
 7. As long as the crate's number is greater than zero, the crate will continue to move down the screen. When the crate goes below the bottom of the screen, it will be destroyed and the points will be deducted.
 
--- UI: Proper UI elements to represent
+### UI: Proper UI elements to represent
 1. current level
 2. current points score
 3. remaining time
@@ -17,10 +17,12 @@
 5. number on the crate
 6. number on the projectile
 
--- Others
+### Others
 1. audio and graphics when level up and down
 2. graphics when a crate is destroyed successfully
 3. graphics when a crate value is <0
-4. audio on/off button to turn on/off audio
-5. pause button to pause the game
-6. variation in the balloon's movement
+4. audio when firing with the cannon
+5. Music playing in the background
+6. audio on/off button to turn on/off audio
+7. pause button to pause the game
+8. variation in the balloon's movement
